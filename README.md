@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @nirville
-- 👀 I’m 3C Game Programmer currently Unity Engine for my most baseline engine. 
-- 🌱 I’m currently learning Unreal with C++
-- 💞️ I’m working on making cool stuff everyday.
+- 👀 I’m Game Programmer with experience in Unity & Unreal Engine.
 - https://nirajsharma.in/
 
 <!---
