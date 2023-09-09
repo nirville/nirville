@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nirville
 - 👀 I’m Game Programmer with experience in Unity & Unreal Engine.
-- https://nirajsharma.in/
 
 <!---
 nirville/nirville is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
